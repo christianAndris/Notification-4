@@ -1,0 +1,23 @@
+Generative AI Documentation
+
+Tool Used:
+ChatGPT
+
+Purpose:
+Used ChatGPT to help understand the assignment requirements and the Java concepts needed to complete the project.
+
+Queries Used:
+
+“Explain composition vs. inheritance in Java.”
+“How do interfaces work in Java?”
+“How can I use an ArrayList to store messages?”
+“What should be included in JavaDocs?”
+“How can I structure a notification system using composition?”
+AI Output and Refinements:
+
+Used the explanations to understand how a NotificationMedium interface could be used by multiple notification services.
+Modified the examples to match the assignment requirements.
+Added an ArrayList to store a log of messages sent during program execution.
+Added JavaDocs to all classes and methods.
+Organized the code into separate files for the interface, services, container class, and main class.
+Tested the program from the command line and corrected any compilation issues.
